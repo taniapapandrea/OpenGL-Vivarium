@@ -1,4 +1,5 @@
-/*author: Stan Sclaroff sclaroff@bu.edu
+/* template by: Stan Sclaroff sclaroff@bu.edu
+ * program completed by: Tania Papandrea taniap@bu.edu
  * Programming Assignment 3 for CS480 Fall 2015
  * the assignment is to create a vivarium to contain many creatures.
  */
